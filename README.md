@@ -273,6 +273,12 @@
 	* 참_기름_ 
 * 숫자나라에 사는 강아지는?
     * 백구
+* 흑형이 자기소개를 하면?
+	* 암흑. (_I'm 흑_)
+* 아빠2명에 엄마1명을 네글자로 하면?
+	* 두부한모. (_2父1母_)
+* 노사연이 라디오를 하면 안되는 이유는?
+	* 사연이 없어서 (_no 사연_)
 
 ### Contributors
 ---
@@ -280,3 +286,4 @@
 * [devholic](https://github.com/devholic)
 * [KimDarren](https://github.com/KimDarren)
 * [MinJunKweon](https://github.com/MinJunKweon)
+
