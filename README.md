@@ -279,6 +279,8 @@
 	* 두부한모. (_2父1母_)
 * 노사연이 라디오를 하면 안되는 이유는?
 	* 사연이 없어서 (_no 사연_)
+* 대구에서 공놀이를 못할 때 하는 말은?
+    * [대구공업대](https://search.naver.com/search.naver?query=대구공업대)
 
 ### Contributors
 ---
