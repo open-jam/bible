@@ -293,8 +293,8 @@
 	* 타당~ 타당~
 * 3월의 대학생을 이길수 없는 이유는?
 	* 개 강하니까 
-* 가는 말이 고우면?
-	* 오는 말은 Come
+* 가는 말이 [고우](https://search.naver.com/search.naver?query=go)면?
+	* 오는 말은 **Come**
 
 ### Contributors
 ---
