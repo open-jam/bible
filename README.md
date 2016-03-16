@@ -539,7 +539,6 @@
 	* Great
 * 외국인 친구가 음식 뭐 좋아하냐고 물어봐서 인절미라고 답했더니 칼을 꺼낸 이유는?
 	* injure me
-* 
 
 ### Contributors
 ---
@@ -547,3 +546,6 @@
 * [devholic](https://github.com/devholic)
 * [KimDarren](https://github.com/KimDarren)
 * [MinJunKweon](https://github.com/MinJunKweon)
+* [InhoChoi](https://github.com/InhoChoi)
+* [mydamyda](https://github.com/mydamyda)
+* [kanak87](https://github.com/kanak87)
