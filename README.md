@@ -540,6 +540,9 @@
 * 맥주가 죽기전에 남긴 말은?
 	* 유언비어 
 
+### 이미지 유머 모음집
+* [./image_humor](./image_humor)
+
 ### Contributors
 ---
 * [alswhdgus10](https://github.com/alswhdgus10)
