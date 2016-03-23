@@ -405,7 +405,7 @@
 	* 황송해
 * 세상에서 가장 예의 바른 경찰은?
 	* 사와디캅
-* 깁에다 밥 싸먹는 이야기를 다르게 하면?
+* 김에다 밥 싸먹는 이야기를 다르게 하면?
 	* 바비 킴 만난 이야기
 * 매우 추운 지방에서 서식하는 나무는?
 	* 졸참나무
@@ -493,8 +493,6 @@
 	* 눈부심
 * 댐=소
 	* 데미 소다
-* 산불이 났을 때 발생하는 기체는?
-	* 탄산가스
 * 예전 사람들이 많이 쓴 종이는?
 	* B4용지 (Before)
 * 웃긴 이빨은?
@@ -547,9 +545,14 @@
 	* 굿 아이디어
 * 네명이 오줌을 싸면?
 	* 포(four)뇨
+* 맥주가 죽기전에 남긴 말은?
+	* 유언비어
+
+### 이미지 유머 모음집
+* [./image_humor](./image_humor)
 
 ### Contributors
----
+
 * [alswhdgus10](https://github.com/alswhdgus10)
 * [devholic](https://github.com/devholic)
 * [KimDarren](https://github.com/KimDarren)
