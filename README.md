@@ -549,6 +549,8 @@
 	* 하이실종 
 * 인천 앞바다의 반대말은?
 	* 인천 엄마다
+* [김일성](https://search.naver.com/search.naver?where=nexearch&query=김일성)의 영어이름은?
+    * Confidentiality(기밀성)
 
 ### 이미지 유머 모음집
 * [./image_humor](./image_humor)
