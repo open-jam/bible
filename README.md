@@ -551,6 +551,8 @@
 	* 인천 엄마다
 * [김일성](https://search.naver.com/search.naver?where=nexearch&query=김일성)의 영어이름은?
     * Confidentiality(기밀성)
+* 1+1을 중국인에게 물어보면?
+	* [이다해](http://movie.naver.com/movie/bi/pi/basic.nhn?code=36991)
 
 ### 이미지 유머 모음집
 * [./image_humor](./image_humor)
