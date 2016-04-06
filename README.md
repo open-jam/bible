@@ -553,6 +553,8 @@
     * Confidentiality(기밀성)
 * 1+1을 중국인에게 물어보면?
 	* [이다해](http://movie.naver.com/movie/bi/pi/basic.nhn?code=36991)
+* 무가 울면?
+	* 무뚝뚝
 
 ### 이미지 유머 모음집
 * [./image_humor](./image_humor)
