@@ -544,9 +544,9 @@
 * 네명이 오줌을 싸면?
 	* 포(four)뇨
 * 맥주가 죽기전에 남긴 말은?
-	* 유언비어 
+	* 유언비어
 * 실종신고된 사람을 찾으면 제일 먼저 하는 말은?
-	* 하이실종 
+	* 하이실종
 * 인천 앞바다의 반대말은?
 	* 인천 엄마다
 * [김일성](https://search.naver.com/search.naver?where=nexearch&query=김일성)의 영어이름은?
@@ -555,6 +555,8 @@
 	* [이다해](http://movie.naver.com/movie/bi/pi/basic.nhn?code=36991)
 * 무가 울면?
 	* 무뚝뚝
+* 비가 얼어죽으면?
+	* 비동사
 
 ### 이미지 유머 모음집
 * [./image_humor](./image_humor)
