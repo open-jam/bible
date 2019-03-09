@@ -689,6 +689,16 @@
 	* 빌리진
 * 바쁘게 뛰는 사람은?
 	* 부지런(busy run)한 사람
+* 싱글코어 CPU가 싱글스레드 프로그램을 굴리면?
+	* 싱글벙글
+* 갈비 맛집 탐방 블로그의 이름은?
+	* Garbage Collector
+* 새로운 우유를 마시면?
+	* 뉴우유~ (new 우유)
+* 창문에 팔이 달리면?
+	* 윈도우 8
+* 15cm 자를 따뜻하게 차로 우려내면?
+	* 자우림
 
 ### 이미지 유머 모음집
 * [./image_humor](./image_humor)
@@ -702,3 +712,4 @@
 * [InhoChoi](https://github.com/InhoChoi)
 * [mydamyda](https://github.com/mydamyda)
 * [kanak87](https://github.com/kanak87)
+* [LaruYan](https://github.com/LaruYan)
